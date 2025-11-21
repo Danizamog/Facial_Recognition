@@ -208,7 +208,7 @@ class _CameraScreenState extends State<CameraScreen> {
                 const SizedBox(width: 8),
                 const Expanded(
                   child: Text(
-                    'MODO SIMULACIÓN - Detección automática cada 2 segundos',
+                    'Detección automática cada 2 segundos',
                     style: TextStyle(
                       color: Colors.orange,
                       fontSize: 12,

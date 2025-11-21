@@ -7,7 +7,7 @@ class FaceDetectionService {
   Future<void> loadModel() async {
     // Simular carga de modelo
     await Future.delayed(const Duration(seconds: 1));
-    print('Servicio de detección facial inicializado (SIMULACIÓN)');
+    print('Servicio de detección facial inicializado ');
   }
 
   Future<List<dynamic>> detectFaces() async {

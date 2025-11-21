@@ -71,7 +71,7 @@ class HomeScreen extends StatelessWidget {
           ),
           const SizedBox(height: 10),
           Text(
-            'Sistema de reconocimiento facial para Daniel Zamorano',
+            'Sistema de reconocimiento facial',
             style: TextStyle(
               color: Colors.white.withOpacity(0.9),
               fontSize: 16,

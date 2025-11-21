@@ -14,7 +14,7 @@ class FacialRecognitionApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Reconocimiento Facial - Daniel Zamorano',
+      title: 'Reconocimiento Facial',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         useMaterial3: true,
