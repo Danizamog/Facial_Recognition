@@ -22,10 +22,7 @@ class _CameraScreenState extends State<CameraScreen> {
 
   // Base de datos de rostros conocidos
   final Map<String, String> _faceDatabase = {
-    'face_1': 'Ana García',
-    'face_2': 'Carlos López', 
-    'face_3': 'María Rodríguez',
-    'face_4': 'Juan Martínez',
+    'face_1': 'Daniel Zamorano',
   };
 
   @override
